@@ -1,0 +1,15 @@
+true.
+
+Count = 3.
+
+Count = 3.
+
+Max = 10.
+
+true 
+false.
+
+Subset = [1, 2, 2] 
+Solutions = [[1, 2, 2], [2, 3], [2, 3], [5], [5], [5], [3, 2]].
+
+Answer = [(anderson, george, pegasus, 1951),  (brooks, harry, kratos, 1949),  (corwin, jeff, hydra, 1947),  (dent, lester, nike, 1953),  (easton, martin, sibyl, 1955)] 

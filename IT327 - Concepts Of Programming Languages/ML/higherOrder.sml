@@ -1,0 +1,1 @@
+fun squareList num_list = map(fn num=>num*num) num_list;

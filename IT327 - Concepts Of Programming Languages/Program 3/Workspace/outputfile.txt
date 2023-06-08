@@ -1,0 +1,32 @@
+Move from (1,4) to (3,4) is not possible
+Move from (1,4) to (2,3) is not possible
+Move from (1,4) to (2,5) is not possible
+Move from (1,4) to (3,4) is not possible
+Possible moves from (3,4)
+________
+________
+________
+________
+________
+________
+________
+________
+
+___K____
+_b______
+________
+___K____
+____K___
+________
+b_bbbbbb
+bbbbbbbb
+Possible moves from (5,2)
+________
+________
+________
+________
+________
+________
+________
+________
+

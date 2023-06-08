@@ -1,0 +1,10 @@
+Error in ID field of record 1: 873
+Error in Zip code field of record 1: 6179
+Error in ID field of record 2: 24BE4
+Error in Number purchased field of record 2: 
+Error in Purchase amount field of record 2:  500.34
+Error in Name field of record 3: Mary 3llen Jones
+Error in Number purchased field of record 3: -5
+Error in Zip code field of record 4: 91011-42352
+Error in Number purchased field of record 4: 1e
+Error in Purchase amount field of record 4: $.38

@@ -1,0 +1,4 @@
+873	John Smith, Jr.	6179	11	$100.75
+24BE4	Winn Thomas	51523		 500.34
+987AEF	Mary 3llen Jones	61761-1111	-5	$783.55
+678DBZ	Clyde Franklin, III	91011-42352	1e	$.38
