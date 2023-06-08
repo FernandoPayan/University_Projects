@@ -1,0 +1,16 @@
+Listing 4.11: This program is meant to demonstrate job queuing. This program has it's queue protected by a mutex. Before we access the queue to do read or write, each of the
+threads must first lock the mutex to prevent a race condition from occuring. When the thread has finished checking the queue and removing the job is when it will unlock the mutex.
+Job queue, our shared data pointer, comes between our call with mutex lock and unlock. A job object can only be accssed outside this region if the job object has been removed from
+the queue which means it is inaccessible to other threads.
+
+Listing 4.12: This program returns back to the job queue example that we visited previously in Listing 4.11. The big difference here is that we are now using a semaphore that allows
+us to count the number of jobs waiting in the queue. We also add in the function enqueue_job which allows us to add a job to the job queue. It has to lock the queue mutex before
+modifying it. Once a job is added to the queue, it posts to the semaphore which indicates that a new job is available. Before we take a job from the front of the queue, the threads 
+will have to wait on the semaphore and what value it holds. If it's 0, that means the queue is empty and the thread will block until the value is positive (which means a job is added 
+to the queue).
+
+Listing 4.14: except now it uses a condition variable to protect the thread flag. In the thread_function, we have a lock on the mutex that is held before we even check the value of
+thread_flag. This lock is automatically released by the call pthread_cond_wait before blocking and it is automatically reacquired afterwards. The function set_thread_flag also
+locks the mutex before setting the value of thread_Flag and signals the mutex. The most important thing to note here is that before doing anything that may change the sense of the condition,
+we should require a mutex lock and the condition variable should be signaled afterwards. The condition variable can also be used without a condition (primarily as a mechanism for blocking
+a thread until another thread wakes it up). 

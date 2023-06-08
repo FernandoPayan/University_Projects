@@ -1,0 +1,18 @@
+Listing 4.1: This program demonstrates two threads that infinitely print out their respective character to stderr. It's straightforward code but the main take away is to showcase scheduling and how the two threads
+are switching back and forth in terms of outputting their message. Despite both instances having infinite while loops, since both have equal priority it splits between the two which is why our output is mixed with
+x's and o's and not just one or the other.
+
+Listing 4.2: This program creates two threads with one thread focused on printing 'x's and the other is printing 'o's. Unlike the previous listing, it won't print infinitely and will instead print a fixed number of
+characters. However, this code has a serious issue with it: The main thread creates the thread parameter structures as local variables and then it passes pointers to these structures to the threads it creates. What
+this means is that it's possible for Linux to have main finish executing before the other threads which means that the memory that is holding these thread parameter structures will be deallocated while the other two
+threads are still accessing it.
+
+Listing 4.3: This program is a revised version of Listing 4.2 in which it resolves the issue with the possibility of main finishing before the other threads. We are able to fix this by implementing two commands
+pthread_join. By writing this command, we make sure that both the first and second thread has finished. The biggest takeaway is making sure that any data that is passed to threads by reference should not be deallocated
+until we're absolutely certain that the thread is finished with it. 
+
+Listing 4.4: This program computes the nth prime number in a seperate thread. This thread computes and returns the desired prime number as it's thread return value while the main thread executes the other code. The
+biggest take away for me here is how it demonstrates how the main thread can freely work on other codes while the other thread is working to compute the prime number.
+
+Listing 4.5: This program demonstrates how detached threads work. More specifically, it creates a detached thread by setting the detach state thread attribute for the thread. It's worth noting that a thread that's created
+in a joinable state can still be turned into a detached thread.
