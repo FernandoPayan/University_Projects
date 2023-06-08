@@ -1,0 +1,1115 @@
+Customer 1 arrived at 2
+Customer 1 served by 1 starting at 2
+Customer 2 arrived at 3
+Customer 2 served by 2 starting at 3
+Customer 3 arrived at 5
+Customer 3 served by 3 starting at 5
+Customer 1 departed at 7
+Customer 4 arrived at 7
+Customer 4 served by 1 starting at 7
+Customer 5 arrived at 8
+Customer 3 departed at 9
+Customer 2 departed at 10
+Customer 6 arrived at 11
+Customer 6 served by 2 starting at 11
+Customer 7 arrived at 13
+Customer 7 served by 3 starting at 13
+Customer 7 departed at 14
+Customer 4 departed at 15
+Customer 5 served by 1 starting at 15
+Customer 8 arrived at 15
+Customer 8 served by 3 starting at 15
+Customer 9 arrived at 16
+Customer 6 departed at 17
+Customer 10 arrived at 18
+Customer 10 served by 2 starting at 18
+Customer 8 departed at 19
+Customer 10 departed at 20
+Customer 11 arrived at 20
+Customer 11 served by 2 starting at 20
+Customer 12 arrived at 21
+Customer 12 served by 3 starting at 21
+Customer 13 arrived at 22
+Customer 14 arrived at 23
+Customer 5 departed at 24
+Customer 9 served by 1 starting at 24
+Customer 9 departed at 25
+Customer 15 arrived at 25
+Customer 15 served by 1 starting at 25
+Customer 15 departed at 26
+Customer 11 departed at 26
+Customer 13 served by 2 starting at 26
+Customer 16 arrived at 26
+Customer 16 served by 1 starting at 26
+Customer 12 departed at 29
+Customer 14 served by 3 starting at 29
+Customer 17 arrived at 29
+Customer 13 departed at 30
+Customer 18 arrived at 30
+Customer 18 served by 2 starting at 30
+Customer 16 departed at 33
+Customer 17 served by 1 starting at 33
+Customer 14 departed at 33
+Customer 19 arrived at 33
+Customer 19 served by 3 starting at 33
+Customer 20 arrived at 36
+Customer 18 departed at 37
+Customer 21 arrived at 37
+Customer 21 served by 2 starting at 37
+Customer 22 arrived at 40
+Customer 17 departed at 41
+Customer 20 served by 1 starting at 41
+Customer 21 departed at 42
+Customer 22 served by 2 starting at 42
+Customer 19 departed at 42
+Customer 23 arrived at 42
+Customer 23 served by 3 starting at 42
+Customer 22 departed at 44
+Customer 24 arrived at 44
+Customer 24 served by 2 starting at 44
+Customer 20 departed at 45
+Customer 23 departed at 45
+Customer 25 arrived at 45
+Customer 25 served by 1 starting at 45
+Customer 25 departed at 47
+Customer 24 departed at 47
+Customer 26 arrived at 47
+Customer 26 served by 1 starting at 47
+Customer 27 arrived at 48
+Customer 27 served by 2 starting at 48
+Customer 28 arrived at 50
+Customer 28 served by 3 starting at 50
+Customer 27 departed at 51
+Customer 29 arrived at 51
+Customer 29 served by 2 starting at 51
+Customer 26 departed at 52
+Customer 30 arrived at 54
+Customer 30 served by 1 starting at 54
+Customer 31 arrived at 57
+Customer 29 departed at 59
+Customer 28 departed at 59
+Customer 32 arrived at 60
+Customer 32 served by 2 starting at 60
+Customer 33 arrived at 61
+Customer 33 served by 3 starting at 61
+Customer 30 departed at 63
+Customer 31 served by 1 starting at 63
+Customer 34 arrived at 64
+Customer 35 arrived at 65
+Customer 36 arrived at 66
+Customer 37 arrived at 67
+Customer 32 departed at 68
+Customer 35 served by 2 starting at 68
+Customer 33 departed at 68
+Customer 36 served by 3 starting at 68
+Customer 38 arrived at 70
+Customer 31 departed at 71
+Customer 34 served by 1 starting at 71
+Customer 36 departed at 72
+Customer 35 departed at 73
+Customer 38 served by 2 starting at 73
+Customer 39 arrived at 73
+Customer 39 served by 3 starting at 73
+Customer 38 departed at 74
+Customer 40 arrived at 74
+Customer 40 served by 2 starting at 74
+Customer 34 departed at 75
+Customer 37 served by 1 starting at 75
+Customer 41 arrived at 77
+Customer 37 departed at 79
+Customer 41 served by 1 starting at 79
+Customer 40 departed at 80
+Customer 39 departed at 80
+Customer 42 arrived at 80
+Customer 42 served by 2 starting at 80
+Customer 41 departed at 82
+Customer 43 arrived at 83
+Customer 43 served by 1 starting at 83
+Customer 42 departed at 84
+Customer 44 arrived at 86
+Customer 44 served by 2 starting at 86
+Customer 44 departed at 87
+Customer 45 arrived at 87
+Customer 45 served by 2 starting at 87
+Customer 45 departed at 90
+Customer 46 arrived at 90
+Customer 46 served by 2 starting at 90
+Customer 43 departed at 91
+Customer 47 arrived at 92
+Customer 47 served by 1 starting at 92
+Customer 48 arrived at 94
+Customer 48 served by 3 starting at 94
+Customer 47 departed at 95
+Customer 48 departed at 97
+Customer 49 arrived at 97
+Customer 49 served by 1 starting at 97
+Customer 46 departed at 99
+Customer 50 arrived at 100
+Customer 50 served by 2 starting at 100
+Customer 51 arrived at 103
+Customer 51 served by 3 starting at 103
+Customer 49 departed at 104
+Customer 50 departed at 104
+Customer 51 departed at 104
+Customer 52 arrived at 105
+Customer 52 served by 1 starting at 105
+Customer 53 arrived at 106
+Customer 53 served by 2 starting at 106
+Customer 54 arrived at 107
+Customer 54 served by 3 starting at 107
+Customer 52 departed at 109
+Customer 55 arrived at 110
+Customer 55 served by 1 starting at 110
+Customer 56 arrived at 112
+Customer 55 departed at 113
+Customer 56 served by 1 starting at 113
+Customer 53 departed at 113
+Customer 57 arrived at 114
+Customer 57 served by 2 starting at 114
+Customer 57 departed at 115
+Customer 54 departed at 115
+Customer 58 arrived at 117
+Customer 58 served by 2 starting at 117
+Customer 58 departed at 118
+Customer 59 arrived at 120
+Customer 59 served by 2 starting at 120
+Customer 56 departed at 121
+Customer 60 arrived at 121
+Customer 60 served by 1 starting at 121
+Customer 61 arrived at 122
+Customer 61 served by 3 starting at 122
+Customer 62 arrived at 124
+Customer 63 arrived at 127
+Customer 59 departed at 129
+Customer 63 served by 2 starting at 129
+Customer 61 departed at 129
+Customer 64 arrived at 129
+Customer 64 served by 3 starting at 129
+Customer 60 departed at 130
+Customer 62 served by 1 starting at 130
+Customer 63 departed at 130
+Customer 65 arrived at 131
+Customer 65 served by 2 starting at 131
+Customer 65 departed at 133
+Customer 66 arrived at 133
+Customer 66 served by 2 starting at 133
+Customer 62 departed at 136
+Customer 64 departed at 136
+Customer 67 arrived at 136
+Customer 67 served by 1 starting at 136
+Customer 66 departed at 137
+Customer 68 arrived at 139
+Customer 68 served by 2 starting at 139
+Customer 67 departed at 140
+Customer 69 arrived at 141
+Customer 69 served by 1 starting at 141
+Customer 68 departed at 143
+Customer 70 arrived at 144
+Customer 70 served by 2 starting at 144
+Customer 71 arrived at 147
+Customer 71 served by 3 starting at 147
+Customer 71 departed at 148
+Customer 72 arrived at 149
+Customer 72 served by 3 starting at 149
+Customer 69 departed at 150
+Customer 70 departed at 152
+Customer 73 arrived at 152
+Customer 73 served by 1 starting at 152
+Customer 72 departed at 154
+Customer 74 arrived at 154
+Customer 74 served by 2 starting at 154
+Customer 73 departed at 156
+Customer 75 arrived at 156
+Customer 75 served by 1 starting at 156
+Customer 76 arrived at 158
+Customer 76 served by 3 starting at 158
+Customer 74 departed at 159
+Customer 77 arrived at 159
+Customer 77 served by 2 starting at 159
+Customer 75 departed at 160
+Customer 77 departed at 160
+Customer 76 departed at 160
+Customer 78 arrived at 160
+Customer 78 served by 1 starting at 160
+Customer 79 arrived at 162
+Customer 79 served by 2 starting at 162
+Customer 80 arrived at 165
+Customer 80 served by 3 starting at 165
+Customer 79 departed at 166
+Customer 78 departed at 168
+Customer 81 arrived at 168
+Customer 81 served by 1 starting at 168
+Customer 81 departed at 169
+Customer 82 arrived at 170
+Customer 82 served by 1 starting at 170
+Customer 80 departed at 171
+Customer 83 arrived at 172
+Customer 83 served by 2 starting at 172
+Customer 82 departed at 173
+Customer 84 arrived at 175
+Customer 84 served by 1 starting at 175
+Customer 84 departed at 176
+Customer 83 departed at 176
+Customer 85 arrived at 176
+Customer 85 served by 1 starting at 176
+Customer 86 arrived at 178
+Customer 86 served by 2 starting at 178
+Customer 85 departed at 179
+Customer 86 departed at 179
+Customer 87 arrived at 181
+Customer 87 served by 1 starting at 181
+Customer 87 departed at 182
+Customer 88 arrived at 183
+Customer 88 served by 1 starting at 183
+Customer 88 departed at 185
+Customer 89 arrived at 185
+Customer 89 served by 1 starting at 185
+Customer 90 arrived at 187
+Customer 90 served by 2 starting at 187
+Customer 91 arrived at 189
+Customer 91 served by 3 starting at 189
+Customer 92 arrived at 191
+Customer 89 departed at 192
+Customer 92 served by 1 starting at 192
+Customer 90 departed at 193
+Customer 93 arrived at 194
+Customer 93 served by 2 starting at 194
+Customer 94 arrived at 196
+Customer 91 departed at 198
+Customer 92 departed at 199
+Customer 94 served by 1 starting at 199
+Customer 95 arrived at 199
+Customer 95 served by 3 starting at 199
+Customer 96 arrived at 202
+Customer 93 departed at 203
+Customer 97 arrived at 204
+Customer 97 served by 2 starting at 204
+Customer 97 departed at 205
+Customer 95 departed at 206
+Customer 98 arrived at 206
+Customer 98 served by 2 starting at 206
+Customer 94 departed at 207
+Customer 96 served by 1 starting at 207
+Customer 99 arrived at 208
+Customer 99 served by 3 starting at 208
+Customer 100 arrived at 209
+Customer 99 departed at 210
+Customer 101 arrived at 211
+Customer 101 served by 3 starting at 211
+Customer 96 departed at 213
+Customer 100 served by 1 starting at 213
+Customer 98 departed at 213
+Customer 101 departed at 214
+Customer 102 arrived at 214
+Customer 102 served by 2 starting at 214
+Customer 100 departed at 215
+Customer 103 arrived at 215
+Customer 103 served by 1 starting at 215
+Customer 104 arrived at 216
+Customer 104 served by 3 starting at 216
+Customer 103 departed at 217
+Customer 102 departed at 218
+Customer 105 arrived at 219
+Customer 105 served by 1 starting at 219
+Customer 104 departed at 222
+Customer 106 arrived at 222
+Customer 106 served by 2 starting at 222
+Customer 107 arrived at 223
+Customer 107 served by 3 starting at 223
+Customer 107 departed at 225
+Customer 108 arrived at 225
+Customer 108 served by 3 starting at 225
+Customer 109 arrived at 226
+Customer 105 departed at 227
+Customer 109 served by 1 starting at 227
+Customer 106 departed at 227
+Customer 110 arrived at 227
+Customer 110 served by 2 starting at 227
+Customer 108 departed at 229
+Customer 111 arrived at 229
+Customer 111 served by 3 starting at 229
+Customer 112 arrived at 230
+Customer 109 departed at 231
+Customer 112 served by 1 starting at 231
+Customer 110 departed at 231
+Customer 111 departed at 232
+Customer 113 arrived at 233
+Customer 113 served by 2 starting at 233
+Customer 114 arrived at 234
+Customer 114 served by 3 starting at 234
+Customer 112 departed at 235
+Customer 113 departed at 236
+Customer 114 departed at 236
+Customer 115 arrived at 236
+Customer 115 served by 1 starting at 236
+Customer 116 arrived at 237
+Customer 116 served by 2 starting at 237
+Customer 117 arrived at 238
+Customer 117 served by 3 starting at 238
+Customer 117 departed at 239
+Customer 118 arrived at 239
+Customer 118 served by 3 starting at 239
+Customer 116 departed at 240
+Customer 115 departed at 241
+Customer 119 arrived at 241
+Customer 119 served by 1 starting at 241
+Customer 120 arrived at 243
+Customer 120 served by 2 starting at 243
+Customer 121 arrived at 246
+Customer 118 departed at 247
+Customer 122 arrived at 247
+Customer 122 served by 3 starting at 247
+Customer 119 departed at 248
+Customer 121 served by 1 starting at 248
+Customer 121 departed at 249
+Customer 123 arrived at 249
+Customer 123 served by 1 starting at 249
+Customer 120 departed at 251
+Customer 124 arrived at 251
+Customer 124 served by 2 starting at 251
+Customer 124 departed at 252
+Customer 125 arrived at 252
+Customer 125 served by 2 starting at 252
+Customer 123 departed at 254
+Customer 125 departed at 254
+Customer 122 departed at 254
+Customer 126 arrived at 254
+Customer 126 served by 1 starting at 254
+Customer 127 arrived at 256
+Customer 127 served by 2 starting at 256
+Customer 128 arrived at 258
+Customer 128 served by 3 starting at 258
+Customer 126 departed at 259
+Customer 128 departed at 260
+Customer 129 arrived at 260
+Customer 129 served by 1 starting at 260
+Customer 130 arrived at 263
+Customer 130 served by 3 starting at 263
+Customer 127 departed at 264
+Customer 131 arrived at 264
+Customer 131 served by 2 starting at 264
+Customer 129 departed at 266
+Customer 131 departed at 267
+Customer 132 arrived at 267
+Customer 132 served by 1 starting at 267
+Customer 130 departed at 270
+Customer 133 arrived at 270
+Customer 133 served by 2 starting at 270
+Customer 133 departed at 271
+Customer 134 arrived at 272
+Customer 134 served by 2 starting at 272
+Customer 132 departed at 273
+Customer 135 arrived at 274
+Customer 135 served by 1 starting at 274
+Customer 134 departed at 275
+Customer 136 arrived at 275
+Customer 136 served by 2 starting at 275
+Customer 137 arrived at 277
+Customer 137 served by 3 starting at 277
+Customer 135 departed at 278
+Customer 137 departed at 279
+Customer 138 arrived at 280
+Customer 138 served by 1 starting at 280
+Customer 139 arrived at 282
+Customer 139 served by 3 starting at 282
+Customer 136 departed at 283
+Customer 138 departed at 284
+Customer 140 arrived at 284
+Customer 140 served by 1 starting at 284
+Customer 140 departed at 286
+Customer 139 departed at 287
+Customer 141 arrived at 287
+Customer 141 served by 1 starting at 287
+Customer 141 departed at 290
+Customer 142 arrived at 290
+Customer 142 served by 1 starting at 290
+Customer 143 arrived at 292
+Customer 143 served by 2 starting at 292
+Customer 142 departed at 295
+Customer 143 departed at 295
+Customer 144 arrived at 295
+Customer 144 served by 1 starting at 295
+Customer 145 arrived at 297
+Customer 145 served by 2 starting at 297
+Customer 146 arrived at 300
+Customer 146 served by 3 starting at 300
+Customer 144 departed at 301
+Customer 147 arrived at 302
+Customer 147 served by 1 starting at 302
+Customer 148 arrived at 304
+Customer 145 departed at 305
+Customer 149 arrived at 307
+Customer 149 served by 2 starting at 307
+Customer 146 departed at 309
+Customer 150 arrived at 309
+Customer 150 served by 3 starting at 309
+Customer 151 arrived at 310
+Customer 147 departed at 311
+Customer 148 served by 1 starting at 311
+Customer 149 departed at 311
+Customer 151 served by 2 starting at 311
+Customer 152 arrived at 311
+Customer 153 arrived at 313
+Customer 150 departed at 314
+Customer 154 arrived at 314
+Customer 154 served by 3 starting at 314
+Customer 155 arrived at 316
+Customer 156 arrived at 318
+Customer 157 arrived at 319
+Customer 148 departed at 320
+Customer 152 served by 1 starting at 320
+Customer 151 departed at 320
+Customer 153 served by 2 starting at 320
+Customer 154 departed at 320
+Customer 155 served by 3 starting at 320
+Customer 155 departed at 322
+Customer 158 arrived at 322
+Customer 158 served by 3 starting at 322
+Customer 159 arrived at 325
+Customer 153 departed at 327
+Customer 157 served by 2 starting at 327
+Customer 160 arrived at 327
+Customer 157 departed at 328
+Customer 160 served by 2 starting at 328
+Customer 161 arrived at 328
+Customer 152 departed at 329
+Customer 156 served by 1 starting at 329
+Customer 162 arrived at 330
+Customer 158 departed at 331
+Customer 159 served by 3 starting at 331
+Customer 163 arrived at 332
+Customer 156 departed at 334
+Customer 162 served by 1 starting at 334
+Customer 164 arrived at 334
+Customer 165 arrived at 335
+Customer 159 departed at 336
+Customer 163 served by 3 starting at 336
+Customer 160 departed at 337
+Customer 161 served by 2 starting at 337
+Customer 163 departed at 337
+Customer 166 arrived at 337
+Customer 166 served by 3 starting at 337
+Customer 167 arrived at 338
+Customer 168 arrived at 340
+Customer 162 departed at 342
+Customer 164 served by 1 starting at 342
+Customer 161 departed at 342
+Customer 167 served by 2 starting at 342
+Customer 169 arrived at 343
+Customer 166 departed at 346
+Customer 168 served by 3 starting at 346
+Customer 170 arrived at 346
+Customer 167 departed at 347
+Customer 169 served by 2 starting at 347
+Customer 171 arrived at 348
+Customer 168 departed at 349
+Customer 170 served by 3 starting at 349
+Customer 164 departed at 350
+Customer 165 served by 1 starting at 350
+Customer 170 departed at 350
+Customer 172 arrived at 350
+Customer 172 served by 3 starting at 350
+Customer 173 arrived at 352
+Customer 169 departed at 353
+Customer 171 served by 2 starting at 353
+Customer 171 departed at 354
+Customer 174 arrived at 354
+Customer 174 served by 2 starting at 354
+Customer 165 departed at 356
+Customer 173 served by 1 starting at 356
+Customer 172 departed at 356
+Customer 175 arrived at 357
+Customer 175 served by 3 starting at 357
+Customer 176 arrived at 359
+Customer 173 departed at 360
+Customer 176 served by 1 starting at 360
+Customer 177 arrived at 361
+Customer 174 departed at 363
+Customer 176 departed at 364
+Customer 177 served by 1 starting at 364
+Customer 178 arrived at 364
+Customer 178 served by 2 starting at 364
+Customer 179 arrived at 365
+Customer 175 departed at 366
+Customer 180 arrived at 366
+Customer 180 served by 3 starting at 366
+Customer 178 departed at 367
+Customer 181 arrived at 368
+Customer 181 served by 2 starting at 368
+Customer 182 arrived at 369
+Customer 177 departed at 370
+Customer 179 served by 1 starting at 370
+Customer 181 departed at 370
+Customer 182 served by 2 starting at 370
+Customer 183 arrived at 370
+Customer 180 departed at 371
+Customer 184 arrived at 371
+Customer 184 served by 3 starting at 371
+Customer 182 departed at 372
+Customer 185 arrived at 373
+Customer 185 served by 2 starting at 373
+Customer 184 departed at 374
+Customer 186 arrived at 374
+Customer 186 served by 3 starting at 374
+Customer 179 departed at 375
+Customer 183 served by 1 starting at 375
+Customer 187 arrived at 375
+Customer 188 arrived at 377
+Customer 189 arrived at 380
+Customer 185 departed at 382
+Customer 188 served by 2 starting at 382
+Customer 190 arrived at 382
+Customer 186 departed at 383
+Customer 189 served by 3 starting at 383
+Customer 183 departed at 384
+Customer 187 served by 1 starting at 384
+Customer 191 arrived at 385
+Customer 188 departed at 388
+Customer 190 served by 2 starting at 388
+Customer 192 arrived at 388
+Customer 187 departed at 389
+Customer 191 served by 1 starting at 389
+Customer 193 arrived at 391
+Customer 191 departed at 392
+Customer 193 served by 1 starting at 392
+Customer 189 departed at 392
+Customer 194 arrived at 392
+Customer 194 served by 3 starting at 392
+Customer 195 arrived at 394
+Customer 193 departed at 395
+Customer 195 served by 1 starting at 395
+Customer 196 arrived at 396
+Customer 190 departed at 397
+Customer 192 served by 2 starting at 397
+Customer 197 arrived at 398
+Customer 194 departed at 399
+Customer 198 arrived at 400
+Customer 198 served by 3 starting at 400
+Customer 195 departed at 401
+Customer 196 served by 1 starting at 401
+Customer 192 departed at 402
+Customer 197 served by 2 starting at 402
+Customer 199 arrived at 403
+Customer 196 departed at 404
+Customer 199 served by 1 starting at 404
+Customer 200 arrived at 406
+Customer 201 arrived at 407
+Customer 197 departed at 408
+Customer 201 served by 2 starting at 408
+Customer 198 departed at 409
+Customer 202 arrived at 409
+Customer 202 served by 3 starting at 409
+Customer 199 departed at 410
+Customer 200 served by 1 starting at 410
+Customer 202 departed at 410
+Customer 203 arrived at 412
+Customer 203 served by 3 starting at 412
+Customer 204 arrived at 413
+Customer 205 arrived at 414
+Customer 201 departed at 416
+Customer 205 served by 2 starting at 416
+Customer 206 arrived at 417
+Customer 200 departed at 418
+Customer 204 served by 1 starting at 418
+Customer 207 arrived at 419
+Customer 203 departed at 420
+Customer 208 arrived at 422
+Customer 208 served by 3 starting at 422
+Customer 209 arrived at 423
+Customer 205 departed at 424
+Customer 206 served by 2 starting at 424
+Customer 208 departed at 424
+Customer 209 served by 3 starting at 424
+Customer 204 departed at 425
+Customer 207 served by 1 starting at 425
+Customer 210 arrived at 425
+Customer 206 departed at 426
+Customer 209 departed at 426
+Customer 211 arrived at 426
+Customer 211 served by 2 starting at 426
+Customer 211 departed at 427
+Customer 212 arrived at 427
+Customer 212 served by 2 starting at 427
+Customer 213 arrived at 428
+Customer 213 served by 3 starting at 428
+Customer 212 departed at 429
+Customer 214 arrived at 430
+Customer 214 served by 2 starting at 430
+Customer 215 arrived at 431
+Customer 207 departed at 432
+Customer 210 served by 1 starting at 432
+Customer 216 arrived at 433
+Customer 210 departed at 434
+Customer 216 served by 1 starting at 434
+Customer 213 departed at 434
+Customer 217 arrived at 434
+Customer 217 served by 3 starting at 434
+Customer 214 departed at 436
+Customer 215 served by 2 starting at 436
+Customer 218 arrived at 436
+Customer 216 departed at 438
+Customer 218 served by 1 starting at 438
+Customer 219 arrived at 438
+Customer 220 arrived at 439
+Customer 217 departed at 441
+Customer 218 departed at 442
+Customer 219 served by 1 starting at 442
+Customer 215 departed at 442
+Customer 220 served by 2 starting at 442
+Customer 221 arrived at 442
+Customer 221 served by 3 starting at 442
+Customer 222 arrived at 444
+Customer 219 departed at 446
+Customer 222 served by 1 starting at 446
+Customer 223 arrived at 446
+Customer 221 departed at 447
+Customer 224 arrived at 447
+Customer 224 served by 3 starting at 447
+Customer 225 arrived at 448
+Customer 220 departed at 451
+Customer 225 served by 2 starting at 451
+Customer 226 arrived at 451
+Customer 227 arrived at 452
+Customer 222 departed at 454
+Customer 223 served by 1 starting at 454
+Customer 224 departed at 455
+Customer 227 served by 3 starting at 455
+Customer 228 arrived at 455
+Customer 227 departed at 456
+Customer 229 arrived at 456
+Customer 229 served by 3 starting at 456
+Customer 225 departed at 457
+Customer 226 served by 2 starting at 457
+Customer 226 departed at 458
+Customer 230 arrived at 458
+Customer 230 served by 2 starting at 458
+Customer 223 departed at 459
+Customer 228 served by 1 starting at 459
+Customer 231 arrived at 460
+Customer 229 departed at 462
+Customer 232 arrived at 462
+Customer 232 served by 3 starting at 462
+Customer 233 arrived at 463
+Customer 228 departed at 464
+Customer 231 served by 1 starting at 464
+Customer 231 departed at 465
+Customer 230 departed at 465
+Customer 233 served by 2 starting at 465
+Customer 232 departed at 465
+Customer 234 arrived at 466
+Customer 234 served by 1 starting at 466
+Customer 235 arrived at 467
+Customer 235 served by 3 starting at 467
+Customer 236 arrived at 470
+Customer 233 departed at 472
+Customer 235 departed at 472
+Customer 237 arrived at 473
+Customer 237 served by 2 starting at 473
+Customer 234 departed at 475
+Customer 236 served by 1 starting at 475
+Customer 238 arrived at 476
+Customer 238 served by 3 starting at 476
+Customer 239 arrived at 477
+Customer 237 departed at 478
+Customer 240 arrived at 480
+Customer 240 served by 2 starting at 480
+Customer 240 departed at 481
+Customer 236 departed at 483
+Customer 239 served by 1 starting at 483
+Customer 241 arrived at 483
+Customer 241 served by 2 starting at 483
+Customer 238 departed at 484
+Customer 242 arrived at 485
+Customer 242 served by 3 starting at 485
+Customer 239 departed at 486
+Customer 241 departed at 486
+Customer 243 arrived at 486
+Customer 243 served by 1 starting at 486
+Customer 244 arrived at 488
+Customer 244 served by 2 starting at 488
+Customer 245 arrived at 489
+Customer 243 departed at 491
+Customer 245 served by 1 starting at 491
+Customer 246 arrived at 491
+Customer 245 departed at 492
+Customer 246 served by 1 starting at 492
+Customer 247 arrived at 492
+Customer 242 departed at 494
+Customer 248 arrived at 494
+Customer 248 served by 3 starting at 494
+Customer 244 departed at 495
+Customer 249 arrived at 496
+Customer 249 served by 2 starting at 496
+Customer 250 arrived at 497
+Customer 251 arrived at 498
+Customer 248 departed at 499
+Customer 251 served by 3 starting at 499
+Customer 252 arrived at 499
+Customer 246 departed at 501
+Customer 247 served by 1 starting at 501
+Customer 253 arrived at 501
+Customer 249 departed at 502
+Customer 250 served by 2 starting at 502
+Customer 254 arrived at 503
+Customer 250 departed at 505
+Customer 254 served by 2 starting at 505
+Customer 255 arrived at 505
+Customer 256 arrived at 507
+Customer 247 departed at 508
+Customer 253 served by 1 starting at 508
+Customer 251 departed at 508
+Customer 252 served by 3 starting at 508
+Customer 257 arrived at 508
+Customer 258 arrived at 510
+Customer 253 departed at 512
+Customer 256 served by 1 starting at 512
+Customer 256 departed at 513
+Customer 258 served by 1 starting at 513
+Customer 254 departed at 513
+Customer 255 served by 2 starting at 513
+Customer 259 arrived at 513
+Customer 260 arrived at 516
+Customer 252 departed at 517
+Customer 257 served by 3 starting at 517
+Customer 261 arrived at 519
+Customer 258 departed at 521
+Customer 259 served by 1 starting at 521
+Customer 255 departed at 521
+Customer 260 served by 2 starting at 521
+Customer 262 arrived at 522
+Customer 257 departed at 523
+Customer 261 served by 3 starting at 523
+Customer 263 arrived at 525
+Customer 264 arrived at 527
+Customer 261 departed at 528
+Customer 264 served by 3 starting at 528
+Customer 265 arrived at 528
+Customer 259 departed at 530
+Customer 262 served by 1 starting at 530
+Customer 260 departed at 530
+Customer 263 served by 2 starting at 530
+Customer 266 arrived at 530
+Customer 267 arrived at 531
+Customer 264 departed at 533
+Customer 265 served by 3 starting at 533
+Customer 268 arrived at 533
+Customer 269 arrived at 535
+Customer 265 departed at 536
+Customer 268 served by 3 starting at 536
+Customer 270 arrived at 536
+Customer 262 departed at 537
+Customer 266 served by 1 starting at 537
+Customer 271 arrived at 537
+Customer 263 departed at 538
+Customer 267 served by 2 starting at 538
+Customer 268 departed at 538
+Customer 270 served by 3 starting at 538
+Customer 266 departed at 539
+Customer 269 served by 1 starting at 539
+Customer 272 arrived at 539
+Customer 273 arrived at 540
+Customer 274 arrived at 541
+Customer 269 departed at 542
+Customer 271 served by 1 starting at 542
+Customer 267 departed at 542
+Customer 272 served by 2 starting at 542
+Customer 275 arrived at 542
+Customer 276 arrived at 544
+Customer 277 arrived at 546
+Customer 270 departed at 547
+Customer 273 served by 3 starting at 547
+Customer 271 departed at 548
+Customer 274 served by 1 starting at 548
+Customer 278 arrived at 548
+Customer 272 departed at 550
+Customer 275 served by 2 starting at 550
+Customer 279 arrived at 550
+Customer 275 departed at 551
+Customer 277 served by 2 starting at 551
+Customer 273 departed at 551
+Customer 278 served by 3 starting at 551
+Customer 280 arrived at 553
+Customer 281 arrived at 554
+Customer 277 departed at 556
+Customer 280 served by 2 starting at 556
+Customer 278 departed at 556
+Customer 281 served by 3 starting at 556
+Customer 282 arrived at 556
+Customer 274 departed at 557
+Customer 276 served by 1 starting at 557
+Customer 276 departed at 558
+Customer 279 served by 1 starting at 558
+Customer 280 departed at 559
+Customer 282 served by 2 starting at 559
+Customer 281 departed at 559
+Customer 283 arrived at 559
+Customer 283 served by 3 starting at 559
+Customer 284 arrived at 560
+Customer 283 departed at 562
+Customer 285 arrived at 563
+Customer 285 served by 3 starting at 563
+Customer 279 departed at 565
+Customer 284 served by 1 starting at 565
+Customer 286 arrived at 565
+Customer 284 departed at 566
+Customer 286 served by 1 starting at 566
+Customer 282 departed at 566
+Customer 287 arrived at 566
+Customer 287 served by 2 starting at 566
+Customer 285 departed at 568
+Customer 288 arrived at 568
+Customer 288 served by 3 starting at 568
+Customer 288 departed at 569
+Customer 289 arrived at 569
+Customer 289 served by 3 starting at 569
+Customer 287 departed at 570
+Customer 290 arrived at 570
+Customer 290 served by 2 starting at 570
+Customer 286 departed at 572
+Customer 291 arrived at 573
+Customer 291 served by 1 starting at 573
+Customer 292 arrived at 575
+Customer 291 departed at 577
+Customer 292 served by 1 starting at 577
+Customer 290 departed at 577
+Customer 289 departed at 578
+Customer 293 arrived at 578
+Customer 293 served by 2 starting at 578
+Customer 293 departed at 579
+Customer 294 arrived at 579
+Customer 294 served by 2 starting at 579
+Customer 292 departed at 581
+Customer 295 arrived at 581
+Customer 295 served by 1 starting at 581
+Customer 296 arrived at 582
+Customer 296 served by 3 starting at 582
+Customer 297 arrived at 585
+Customer 294 departed at 586
+Customer 295 departed at 587
+Customer 297 served by 1 starting at 587
+Customer 298 arrived at 587
+Customer 298 served by 2 starting at 587
+Customer 299 arrived at 588
+Customer 300 arrived at 590
+Customer 296 departed at 591
+Customer 297 departed at 592
+Customer 299 served by 1 starting at 592
+Customer 301 arrived at 593
+Customer 301 served by 3 starting at 593
+Customer 299 departed at 594
+Customer 302 arrived at 594
+Customer 302 served by 1 starting at 594
+Customer 303 arrived at 595
+Customer 298 departed at 596
+Customer 300 served by 2 starting at 596
+Customer 300 departed at 597
+Customer 304 arrived at 597
+Customer 304 served by 2 starting at 597
+Customer 301 departed at 599
+Customer 302 departed at 600
+Customer 303 served by 1 starting at 600
+Customer 305 arrived at 600
+Customer 305 served by 3 starting at 600
+Customer 304 departed at 601
+Customer 305 departed at 602
+Customer 306 arrived at 602
+Customer 306 served by 2 starting at 602
+Customer 307 arrived at 605
+Customer 307 served by 3 starting at 605
+Customer 306 departed at 607
+Customer 307 departed at 607
+Customer 308 arrived at 608
+Customer 308 served by 2 starting at 608
+Customer 303 departed at 609
+Customer 309 arrived at 611
+Customer 309 served by 1 starting at 611
+Customer 309 departed at 614
+Customer 310 arrived at 614
+Customer 310 served by 1 starting at 614
+Customer 311 arrived at 615
+Customer 311 served by 3 starting at 615
+Customer 312 arrived at 616
+Customer 308 departed at 617
+Customer 310 departed at 618
+Customer 312 served by 1 starting at 618
+Customer 313 arrived at 618
+Customer 313 served by 2 starting at 618
+Customer 311 departed at 619
+Customer 312 departed at 621
+Customer 314 arrived at 621
+Customer 314 served by 1 starting at 621
+Customer 313 departed at 623
+Customer 315 arrived at 624
+Customer 315 served by 2 starting at 624
+Customer 314 departed at 625
+Customer 315 departed at 625
+Customer 316 arrived at 625
+Customer 316 served by 1 starting at 625
+Customer 317 arrived at 626
+Customer 317 served by 2 starting at 626
+Customer 318 arrived at 627
+Customer 318 served by 3 starting at 627
+Customer 318 departed at 628
+Customer 319 arrived at 628
+Customer 319 served by 3 starting at 628
+Customer 320 arrived at 630
+Customer 321 arrived at 631
+Customer 322 arrived at 633
+Customer 316 departed at 634
+Customer 320 served by 1 starting at 634
+Customer 317 departed at 634
+Customer 321 served by 2 starting at 634
+Customer 323 arrived at 634
+Customer 324 arrived at 635
+Customer 319 departed at 636
+Customer 322 served by 3 starting at 636
+Customer 320 departed at 637
+Customer 323 served by 1 starting at 637
+Customer 325 arrived at 637
+Customer 326 arrived at 638
+Customer 323 departed at 639
+Customer 325 served by 1 starting at 639
+Customer 325 departed at 640
+Customer 327 arrived at 640
+Customer 327 served by 1 starting at 640
+Customer 327 departed at 642
+Customer 328 arrived at 642
+Customer 328 served by 1 starting at 642
+Customer 321 departed at 643
+Customer 324 served by 2 starting at 643
+Customer 329 arrived at 643
+Customer 322 departed at 644
+Customer 326 served by 3 starting at 644
+Customer 330 arrived at 644
+Customer 328 departed at 645
+Customer 329 served by 1 starting at 645
+Customer 329 departed at 647
+Customer 331 arrived at 647
+Customer 331 served by 1 starting at 647
+Customer 332 arrived at 650
+Customer 333 arrived at 651
+Customer 324 departed at 652
+Customer 330 served by 2 starting at 652
+Customer 326 departed at 652
+Customer 333 served by 3 starting at 652
+Customer 334 arrived at 652
+Customer 330 departed at 653
+Customer 334 served by 2 starting at 653
+Customer 333 departed at 653
+Customer 335 arrived at 654
+Customer 335 served by 3 starting at 654
+Customer 331 departed at 655
+Customer 332 served by 1 starting at 655
+Customer 335 departed at 656
+Customer 336 arrived at 656
+Customer 336 served by 3 starting at 656
+Customer 337 arrived at 657
+Customer 332 departed at 658
+Customer 337 served by 1 starting at 658
+Customer 338 arrived at 659
+Customer 336 departed at 660
+Customer 334 departed at 662
+Customer 339 arrived at 662
+Customer 339 served by 2 starting at 662
+Customer 337 departed at 663
+Customer 338 served by 1 starting at 663
+Customer 340 arrived at 664
+Customer 340 served by 3 starting at 664
+Customer 341 arrived at 667
+Customer 339 departed at 668
+Customer 342 arrived at 668
+Customer 342 served by 2 starting at 668
+Customer 342 departed at 669
+Customer 340 departed at 669
+Customer 343 arrived at 671
+Customer 343 served by 2 starting at 671
+Customer 338 departed at 672
+Customer 341 served by 1 starting at 672
+Customer 344 arrived at 673
+Customer 344 served by 3 starting at 673
+Customer 343 departed at 674
+Customer 345 arrived at 674
+Customer 345 served by 2 starting at 674
+Customer 345 departed at 677
+Customer 346 arrived at 677
+Customer 346 served by 2 starting at 677
+Customer 346 departed at 678
+Customer 347 arrived at 678
+Customer 347 served by 2 starting at 678
+Customer 341 departed at 679
+Customer 348 arrived at 681
+Customer 348 served by 1 starting at 681
+Customer 344 departed at 682
+Customer 349 arrived at 682
+Customer 349 served by 3 starting at 682
+Customer 348 departed at 684
+Customer 350 arrived at 684
+Customer 350 served by 1 starting at 684
+Customer 347 departed at 685
+Customer 349 departed at 685
+Customer 351 arrived at 685
+Customer 351 served by 2 starting at 685
+Customer 351 departed at 686
+Customer 352 arrived at 687
+Customer 352 served by 2 starting at 687
+Customer 350 departed at 688
+Customer 352 departed at 689
+Customer 353 arrived at 689
+Customer 353 served by 1 starting at 689
+Customer 354 arrived at 690
+Customer 354 served by 2 starting at 690
+Customer 353 departed at 693
+Customer 355 arrived at 693
+Customer 355 served by 1 starting at 693
+Customer 356 arrived at 694
+Customer 356 served by 3 starting at 694
+Customer 357 arrived at 695
+Customer 358 arrived at 696
+Customer 356 departed at 697
+Customer 359 arrived at 697
+Customer 359 served by 3 starting at 697
+Customer 354 departed at 698
+Customer 358 served by 2 starting at 698
+Customer 360 arrived at 699
+Customer 355 departed at 700
+Customer 357 served by 1 starting at 700
+Customer 359 departed at 700
+Customer 361 arrived at 701
+Customer 361 served by 3 starting at 701
+Customer 362 arrived at 702
+Customer 363 arrived at 703
+Customer 364 arrived at 706
+Customer 357 departed at 707
+Customer 362 served by 1 starting at 707
+Customer 358 departed at 707
+Customer 360 served by 2 starting at 707
+Customer 361 departed at 707
+Customer 363 served by 3 starting at 707
+Customer 365 arrived at 707
+Customer 360 departed at 708
+Customer 365 served by 2 starting at 708
+Customer 363 departed at 708
+Customer 366 arrived at 709
+Customer 366 served by 3 starting at 709
+Customer 367 arrived at 710
+Customer 362 departed at 711
+Customer 364 served by 1 starting at 711
+Customer 366 departed at 711
+Customer 368 arrived at 713
+Customer 368 served by 3 starting at 713
+Customer 368 departed at 714
+Customer 365 departed at 715
+Customer 367 served by 2 starting at 715
+Customer 369 arrived at 715
+Customer 369 served by 3 starting at 715
+Customer 364 departed at 716
+Customer 367 departed at 716
+Customer 369 departed at 717
+Customer 370 arrived at 717
+Customer 370 served by 1 starting at 717
+Customer 371 arrived at 719
+Customer 371 served by 2 starting at 719
+
+Average wait time: 1.8
+Maximum wait time: 15
+Maximum line length: 5

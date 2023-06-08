@@ -1,0 +1,9 @@
+Welcome to the Postfix App!
+
+Enter Expression (Q to quit): Result: -26
+
+Enter Expression (Q to quit): Result: 2
+
+Enter Expression (Q to quit): Result: 2
+
+Enter Expression (Q to quit): 
