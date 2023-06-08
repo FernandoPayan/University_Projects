@@ -1,0 +1,70 @@
+5
+MCO
+LGA
+PVD
+LAX
+SFO
+12
+MCO LGA 1099
+LGA MCO 1099
+MCO PVD 1355
+PVD MCO 1355
+MCO LAX 2360
+LAX MCO 2360
+LGA SFO 2224
+SFO LGA 2224
+PVD LAX 2400
+LAX PVD 2400
+LAX SFO 400
+SFO LAX 400
+This graph cannot be topologically sorted.
+Shortest Paths from LAX:
+LAX --> MCO || Weight: 2360
+LAX --> SFO --> LGA || Weight: 2624
+LAX --> PVD || Weight: 2400
+LAX --> SFO || Weight: 400
+Minimum Spanning Tree:
+LAX -- SFO || Weight: 400
+MCO -- LGA || Weight: 1099
+MCO -- PVD || Weight: 1355
+LGA -- SFO || Weight: 2224
+Total Cost: 5078
+8
+A
+B
+C
+D
+E
+F
+G
+H
+10
+A B 8
+A D 2
+A G 8
+B F 9
+C D 3
+C E 6
+D B 2
+E G 3
+E H 2
+F H 8
+Topological Sort:
+A --> C --> D --> E --> B --> G --> F --> H
+Shortest Paths from C:
+No path from C to A found.
+C --> D --> B || Weight: 5
+C --> D || Weight: 3
+C --> E || Weight: 6
+C --> D --> B --> F || Weight: 14
+C --> E --> G || Weight: 9
+C --> E --> H || Weight: 8
+Minimum Spanning Tree:
+A -- D || Weight: 2
+D -- B || Weight: 2
+E -- H || Weight: 2
+C -- D || Weight: 3
+E -- G || Weight: 3
+C -- E || Weight: 6
+F -- H || Weight: 8
+Total Cost: 26

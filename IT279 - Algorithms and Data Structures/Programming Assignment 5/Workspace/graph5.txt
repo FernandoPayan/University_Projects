@@ -1,0 +1,21 @@
+8
+A
+B
+C
+D
+F
+G
+H
+J
+11
+C F 8
+A G 7
+D H 6
+A B 4
+G J 4
+D G 5
+F J 3
+C G 3
+H J 2
+B D 2
+A C 2
