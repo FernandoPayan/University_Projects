@@ -1,0 +1,13 @@
+The program starts off by checking if the user passed in the correct number of parameters. If so, then we get take in the number of threads + the input file we're working with, make sure they are valid, and get 
+right into it. We read each line in the file with fgets in a while loop and check what line we're reading. If it's the first line, then we parse the string, get the number, and update our values array with malloc
+based on the number of elements in the file. For every other line, we convert the string into an integer and store it into our array. Once our array is set up, we then go into our parallel work. We create an array
+of threads (malloc based on the number of threads passed in as an argument) and calculate our work which is the rounded value of number of elements / number of threads. Once this is calculated, we call the threads
+to work on the subarray by using pthread_create, calling the method sortArray. In this method, we calculate the starting index and final index for the thread to work on based on the work and thread_id. We have an
+if statement to check if there's a remainder in the case that the work was not evenly divisible. This will determine how much the last thread will need to work on. Afterwards, each thread will perform quicksort on
+their respective subarray section. We join the threads together, and move onto the sorting in the main thread. Here, we create two arrays: one that stores the sorted values and another that stores the indexes that
+the threads worked on. Once we filled the temp array, we move onto sorting it checking each index we're supposed to look at and getting the smallest value and inserting that into our sorted array. For every value we
+insert, we increment it's index by one so we look at the next section of the subarray that the thread worked on (provided the current index is not = number of elements). Once sorted, it is a very straightforward
+process of simply computing the median and mode. Median is found by getting the middle index of the file and checking if our number of elements is even or odd. This tells us how we need to calculate the median. As
+for mode, we use four variables: mode (the mode value), curVal (the current value we're looking at in the array), modeCount (the number of times the mode appears), and localCount (the local count of the current
+number we're looking at). We search through the array and increment the values respectively. If we find a count higher than our current modeCount, then we update it (repeated for the final value at the end as seen
+at the end of the for loop). Regardless, we change the value we're looking at and reset localCount to 1 before restarting the loop.
