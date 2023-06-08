@@ -1,0 +1,7 @@
+pipe() creates a pipe, which is an unidirectional data channcel that can be used for interprocess communication. What this means is that the output of one process can become the input of another. 
+If successful, it will return 0. If an error occurs, -1 is returned.
+
+write() writes up to "count" bytes from the buffer starting at "buf" to the file referred to by the file descripter "fd". If sucessful, write() returns the number of bytes that is written. If an
+error occurs, it returns -1.
+
+close(), as the name suggests, closes a file descriptor. It will make sure that we no longer refer to any file and may be reused. If successful, it returns 0. If an error occurs, it returns -1.

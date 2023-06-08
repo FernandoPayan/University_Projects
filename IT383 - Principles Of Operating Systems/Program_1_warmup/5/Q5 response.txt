@@ -1,0 +1,8 @@
+msgget() is used to get the message queue id. It returns the System V message queue identifier associated with the value of the "key" argument. If successful, it will return the message queue identifier.
+If an error occurs, it returns -1.
+
+msgsnd() is used to send message to a System V message queue. It appens a copy of the message pointed to by "msgp" to the message queue whose identifier is specified by "msqid"
+If successful, it returns 0. If an error occurs, it returns -1.
+
+msgrcv() is used to receive a message from a System V message queue.It removes a message from the queue specified by "msqid" and places it in the buffer pointed to by "msgp".
+If successful, it returns the number of bytes actually copied into the mtext array. If an error occurs, it returns -1.

@@ -1,0 +1,9 @@
+Fork() is used to create a new process by duplicating the calling process (i.e. multiple instances of program is running). The calling process is referred to as the parent process and the duplicated/newly created process is referred to as the child process.
+If the method is called successfully, it returns the PID value of the child process to the parent process which is an integer value > 0. To the child process, it will be 0 and if an error occurs, the parent will 
+receive -1. These proccesses run in seperate memory spaces, meaning that they will not be able to affect one another.
+
+Execlp() is used to duplicate the actions of the shell in searching for an executable file assuming the specified file does not contain a slash (/). In other words, it is used to execute specified commands, such as ls.
+It searches for a new process given the path. If found, the process that called upon this function will now be replaced by a new program which will start executing.
+
+Wait() is used to block the callling process (a.k.a the parent process) until at least one of it's children proccesses has changed state. It waits for a state change and can used the information gathered from the child. State changes can be a variety of different
+things, such as the child terminated, the child was stopped by a signal, or the child resumed by a signal.

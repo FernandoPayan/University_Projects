@@ -1,0 +1,9 @@
+getpid() returns the process ID (a.k.a PID) of the calling process. Due to it's nature, it is impossible for this function call to fail.
+
+fprintf() is apart of the printf() family which produce an output according to it's format. In the case of fprintf(), it will write the output to a given output "stream". 
+
+RECORDED VALUES:
+A - child: pid = 0
+B - child: pid1 = 4694
+C - parent: pid = 4694
+D - parent: pid = 4693

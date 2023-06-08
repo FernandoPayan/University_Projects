@@ -1,0 +1,12 @@
+shm_open() creates and opens a new (or exisiting) POSIX shared memory object. It is similar in use to open() in the sense that they open a file descriptor but what is unique about this function call is that it is used
+to connect the shared memory object and the file descriptor. If successful, it will return a nonnegative file descriptor value. If it fails, it returns -1.
+
+mmap() is used to create a new mapping in the virtual address space of the calling process (i.e. the parent process). It takes four arguments: "addr" which is the starting address for the new mapping, "length" which
+specifies the length of the mapping, "prot" which describes the desired memory protection of the mapping, and "flags" which determine whether updates to the mapping are visible to other processes mapping the same region.
+If successful, it returns a pointer to the mapped area. If not, it returns the value "MAP_FAILED".
+
+ftruncate() cause the regular file to be truncated to a size of exactly "length" bytes. If the file is larger than the specified size, then extra data is lost. If it is smaller, it is extended and the extended parts reads
+null bytes. ftruncate() is specific that the file must be open for writing. On success, it reutnrs 0. If an error occurs, it returns -1.
+
+shm_unlink() is similar to unlink() it removes a shared memory object name. Once all of the proccesses have unmapped the object, it will de-allocate and destroy the contents of the associated memory region. At this point,
+shm_open() is used with the same name, it will fail unless O_CREAT was specified. If successful, it will return 0. If an error occurs, it returns -1.
