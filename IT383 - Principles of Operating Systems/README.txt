@@ -1,0 +1,1 @@
+ Introduction of the basic facilities provided by modern operating systems. The topics include processes and threads, scheduling, synchronization, memory management, file systems, input and output device management and security.
