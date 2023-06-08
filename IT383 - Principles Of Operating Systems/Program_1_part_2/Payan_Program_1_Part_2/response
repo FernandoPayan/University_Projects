@@ -1,0 +1,9 @@
+I used many different APIs in order to create a functional shell program.I had to use some of the basics such as pid_t to be able to create a child process, FILE so that I could create a file object to 
+read/write from including fopen/flclose for obvious reason, and printf/fprintf to print to the console/file. Aisde from these basic ones, I used some common APIs as well. One of the most important ones 
+used was strcpy, strcat, and strtok. Strcpy is used to be able to copy the contents of a char pointer and store it to another which esentially functions as a way to store the contents of the string. The 
+second one, strcat, is used to concatenate a string. This was very important, especially in the non-build-in command functions as I needed to concatenate the command to the path to check if the command 
+existed. The third one, strtok, is one of (if not the most) important pieces to the program. This allows me to be able to parse the user's input which allowed me to perform many functionalities throughout 
+the program, such as determing which are the paths in the input / using delimeters. I made use of strstr which allowed me to search through my strings to see if a certain word was in it. This is used to 
+determine whether the user passed in a built-in command or a non-built-in command. For both the batch mode and the interactive mode, I made use of getline to read in the user's input for the interactive 
+mode and iterate through each of the lines in the text file for the batch mode. I made use of other libraries, such as stdbool.h for some simple implementations such as creating the while loop and 
+tracking of the logging state.

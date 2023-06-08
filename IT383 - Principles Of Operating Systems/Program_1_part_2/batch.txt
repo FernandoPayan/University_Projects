@@ -1,0 +1,6 @@
+logging on outputfile.txt
+path
+path /bin:/usr/shr
+path
+ls -l
+exit

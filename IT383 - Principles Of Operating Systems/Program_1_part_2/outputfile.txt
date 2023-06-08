@@ -1,0 +1,43 @@
+pathls
+ls -l
+cd ..
+ls
+cd Program_1_part_2
+ls
+pathls
+ls -l
+cd ..
+ls
+cd Program_1_part_2
+ls
+pathpath
+path /bin:/usr/shr
+path
+ls -l
+exitpath
+path /bin:/usr/shr
+path
+ls -l
+exitpath
+
+path /bin
+
+ls -l
+
+logging off
+
+ls
+
+ls -l
+
+exit
+
+path
+path /bin:/usr/shr
+path
+ls -l
+exitpath
+path /bin:/usr/shr
+path
+ls -l
+exit
